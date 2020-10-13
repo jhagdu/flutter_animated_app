@@ -1,0 +1,2 @@
+var deviceHeight;
+var deviceWidth;
