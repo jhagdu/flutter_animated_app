@@ -27,5 +27,5 @@ Now App is ready to run -
 
 # Links :-  
 YouTube Video :- https://youtu.be/cyZfaSS1pjo  
-Post :- Coming Soon    
+Post :- https://www.linkedin.com/posts/amanjhagrolia143_flutter-animated-app-activity-6722012382115241984-297P  
 Article :- https://medium.com/@amanjhagrolia143/flutter-animated-app-eb79f53c5b9d?source=friends_link&sk=78361df015d821af190fb6f790737152  
